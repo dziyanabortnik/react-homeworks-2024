@@ -1,6 +1,4 @@
-# React Homeworks Project
-
-This project contains React homeworks for 2024. The project is created using Vite and includes a basic ESLint setup
+This project contains React homeworks for 2024. The project is created using Vite and includes a basic ESLint setup.
 
 ## Installation
 
@@ -22,7 +20,6 @@ This project contains React homeworks for 2024. The project is created using Vit
 2. Open browser and go to http://localhost:5174/.
 
 ## Author
-   Dziyana Bortnik 
+   Dziyana Bortnik
    My GitHub Profile: https://github.com/dziyanabortnik
-
-Домашние задания по React на 2025 год
+   
